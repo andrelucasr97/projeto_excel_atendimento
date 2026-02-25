@@ -44,7 +44,7 @@ Interpretação comum:
 
 0.3 – 0.5 → Forte
 
-> 0.5 → Muito forte (pode indicar sobreajuste)
+ 0.5 → Muito forte (pode indicar sobreajuste)
 
 Quanto maior o IV, maior a capacidade da variável distinguir entre classes.
 
